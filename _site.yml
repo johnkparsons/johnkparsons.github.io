@@ -3,5 +3,11 @@ output_dir: "."
 navbar:
   title: "John K. Parsons"
   left:
-    - text: "Research"
-      href: research.html
+    - text: "Writing"
+      href: writing.html
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'
+      
+      
