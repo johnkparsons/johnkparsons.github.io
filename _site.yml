@@ -4,7 +4,6 @@ navbar:
   title: "John K. Parsons"
   left:
     - text: "Writing"
-      href: writing.html
 output:
   html_document:
     theme: paper
