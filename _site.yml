@@ -1,0 +1,7 @@
+name: "John K. Parsons"
+output_dir: "."
+navbar:
+  title: "John K. Parsons"
+  left:
+    - text: "Research"
+      href: research.html
